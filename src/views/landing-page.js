@@ -151,26 +151,26 @@ const LandingPage = (props) => {
         <span className="landing-page-text16">Recommended</span>
         <div className="landing-page-cards-container">
           <a
-            href="https://gabrhi.com/Spotless-Hungry-Crocodile-React"
+            href="https://gabrhi.com/Chatbot-demo-One-React/"
             target="_blank"
             rel="noreferrer noopener"
             className="landing-page-link05"
           >
             <PlaceCard
-              city="Project One"
-              image="/template_site1-300h.png"
+              city="Basic ChatBot Example"
+              image="/chatbot-one.png"
               className="landing-page-component3"
             ></PlaceCard>
           </a>
           <a
-            href="https://gabrhi.com/css-key-concepts-responsive-design/"
+            href="https://gabrhi.com/Spotless-Hungry-Crocodile-React"
             target="_blank"
             rel="noreferrer noopener"
             className="landing-page-link06"
           >
             <PlaceCard
-              city="Project Two"
-              image="/learner%20css-300h.png"
+              city="Basic AI website"
+              image="/template_site1-300h.png"
               className="landing-page-component4"
             ></PlaceCard>
           </a>
@@ -189,17 +189,17 @@ const LandingPage = (props) => {
           <PlaceCard
             city="Project Four"
             image="https://images.unsplash.com/photo-1551634979-2b11f8c946fe?ixlib=rb-1.2.1&amp;q=85&amp;fm=jpg&amp;crop=entropy&amp;cs=srgb&amp;h=1000"
-            className="place-card-root-class-name"
+            rootClassName="place-card-root-class-name"
           ></PlaceCard>
           <PlaceCard
             city="Project Five"
             image="https://images.unsplash.com/photo-1585211969224-3e992986159d?ixlib=rb-1.2.1&amp;q=85&amp;fm=jpg&amp;crop=entropy&amp;cs=srgb&amp;h=1000"
-            className="place-card-root-class-name1"
+            rootClassName="place-card-root-class-name1"
           ></PlaceCard>
           <PlaceCard
             city="Project Six"
             image="https://images.unsplash.com/photo-1564221710304-0b37c8b9d729?ixlib=rb-1.2.1&amp;q=85&amp;fm=jpg&amp;crop=entropy&amp;cs=srgb&amp;h=1000"
-            className="place-card-root-class-name2"
+            rootClassName="place-card-root-class-name2"
           ></PlaceCard>
         </div>
       </div>
