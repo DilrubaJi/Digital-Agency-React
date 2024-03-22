@@ -175,14 +175,14 @@ const LandingPage = (props) => {
             ></PlaceCard>
           </a>
           <a
-            href="https://gabrhi.com/learner_materials_bem_and_oocss/"
+            href="https://dilrubaji.github.io/digital-agency-site2"
             target="_blank"
             rel="noreferrer noopener"
             className="landing-page-link07"
           >
             <PlaceCard
               city="Project Three"
-              image="/learner%20bem-300h.png"
+              image="/template1.png"
               className="landing-page-component5"
             ></PlaceCard>
           </a>
