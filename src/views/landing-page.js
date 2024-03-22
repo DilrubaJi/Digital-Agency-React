@@ -125,7 +125,7 @@ const LandingPage = (props) => {
             <h1 className="landing-page-text09">Digital agency</h1>
             <h2 className="landing-page-subheading">
               <span className="Subheading">
-                home Innovative Digital Agency specializing in
+                Innovative Digital Agency specialising in
                 <span
                   dangerouslySetInnerHTML={{
                     __html: ' ',
@@ -189,17 +189,17 @@ const LandingPage = (props) => {
           <PlaceCard
             city="Project Four"
             image="https://images.unsplash.com/photo-1551634979-2b11f8c946fe?ixlib=rb-1.2.1&amp;q=85&amp;fm=jpg&amp;crop=entropy&amp;cs=srgb&amp;h=1000"
-            rootClassName="place-card-root-class-name"
+            className="place-card-root-class-name"
           ></PlaceCard>
           <PlaceCard
             city="Project Five"
             image="https://images.unsplash.com/photo-1585211969224-3e992986159d?ixlib=rb-1.2.1&amp;q=85&amp;fm=jpg&amp;crop=entropy&amp;cs=srgb&amp;h=1000"
-            rootClassName="place-card-root-class-name1"
+            className="place-card-root-class-name1"
           ></PlaceCard>
           <PlaceCard
             city="Project Six"
             image="https://images.unsplash.com/photo-1564221710304-0b37c8b9d729?ixlib=rb-1.2.1&amp;q=85&amp;fm=jpg&amp;crop=entropy&amp;cs=srgb&amp;h=1000"
-            rootClassName="place-card-root-class-name2"
+            className="place-card-root-class-name2"
           ></PlaceCard>
         </div>
       </div>
